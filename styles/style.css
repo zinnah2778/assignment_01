@@ -59,3 +59,22 @@ nav{
     margin: 0px 550px;
     
 }
+/*third part*/
+.third{
+    display: flex;
+    margin: 50px 50px;
+    justify-content: space-between;
+}
+.third_title{
+    color: #252432;
+    font-size: 45px;
+    font-weight: bold;
+}
+.third_ptext{
+    color: #252432;
+    font-size: 20px;
+}
+.third_p{
+    width: 403px;
+    border-radius: 25px;
+}
