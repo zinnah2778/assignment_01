@@ -178,3 +178,27 @@ nav{
     height: 365;
     border-radius: 20px;
 }
+
+/*sixth part*/
+.seventh{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 50px;
+}
+.seventh_title{
+    color: #252432;
+    font-weight: bold;
+    font-size: 97px;
+}
+.seventh_last{
+    margin-top: 20px;
+}
+.form_2{
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
