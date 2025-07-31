@@ -202,3 +202,34 @@ nav{
   border-radius: 4px;
   box-sizing: border-box;
 }
+.f_area{
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+/*footer*/
+.footer_con{
+    text-align: center;
+    margin: 60px 200px;
+}
+.footer_title{
+    color: #4E47FF;
+    font-size: 100px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.footer_pera{
+    color: #8987A1;
+    font-size: 15px;
+    margin-top: 0px;
+}
+.footer_last{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 470px;
+    color: #8987A1;
+}
