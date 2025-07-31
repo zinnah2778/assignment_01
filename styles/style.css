@@ -109,3 +109,31 @@ nav{
     color: #858383;
     font-size: 12px;
 }
+
+/*fifth part*/
+.designers_contener{
+    display: flex;
+    justify-content: space-around;
+}
+.fifth_ti{
+    text-align: center;
+    font-weight: bold;
+    font-size: 42px;
+}
+.designers_contener{
+    background-color: #F2EDED;
+    padding: 0px 5px;
+}
+.desiner_title{
+    color: #252432;
+    font-size: 20px;
+    font-weight: bold;
+}
+.desiner_detais{
+    font-size: small;
+    color: #353232;
+}
+.fifth_img2{
+    display: flex;
+    padding-top: 5px;
+}
