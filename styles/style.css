@@ -78,3 +78,34 @@ nav{
     width: 403px;
     border-radius: 25px;
 }
+
+/*fourth part*/
+.fourth_ti{
+    color: #252432;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.fourth{
+    background-color: #dddddf;
+    margin: 50px 50px;
+    padding: 25px 50px;
+}
+.fourth_items{
+    display: flex;
+    justify-content: space-around;
+     padding: 0px 110px;
+   
+}
+.fourth_item_h2{
+    color: #4E47FF;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    
+}
+.fourth_item_pera{
+    color: #858383;
+    font-size: 12px;
+}
